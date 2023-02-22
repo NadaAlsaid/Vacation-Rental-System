@@ -2,14 +2,17 @@
 1.	Project Description and Services in Details:
 Our System shall Provide easy Trip-Browsing and  resemble a simple Traveler/Tourist Guide  , where the point of using our system is to allow users to browse trips, countries, destinations and Touristic attractions around the world, search for the suitable trip that matches your plans, and Because we believe sharing experiences is what makes us connected despite the distance, the system favors its registered users and allows them to share their experiences by adding a detailed description of their trips so that others can get inspired and follow their joyful guides!
 2.	Use Case Diagram
-![Use Case](https://user-images.githubusercontent.com/92337927/220677194-395d4774-e2df-4749-a824-ff9f8860f279.png)
+![Use Case](https://user-images.githubusercontent.com/92337927/220678380-1ec9b8c3-8883-4bc9-a4a7-213e86a217be.jpg)
+
 
 3.	DFD Diagrams
+
 3.1.	Context Diagram
 ![Blank board](https://user-images.githubusercontent.com/92337927/220666697-d662226a-5679-47bd-9dbd-47efb555b5e1.png)
 
 3.2.	Level 0 Diagram 
-![DFD Level0](https://user-images.githubusercontent.com/92337927/220677200-1f01005c-5c3c-43e5-894e-d1b577e58619.png)
+![DFD Level 0](https://user-images.githubusercontent.com/92337927/220678375-203ef629-9615-4172-8713-bbae8f1da9a9.png)
+
 3.3.	Level 1 Diagram
 ![Team brainstorm](https://user-images.githubusercontent.com/92337927/220666589-eb2d0f2f-3f19-4a98-8d4a-8a53a0e11a6e.png)
 
