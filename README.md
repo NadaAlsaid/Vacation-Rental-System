@@ -1,7 +1,9 @@
-# Vacation Rental System 
+<h1 alise = "center" > Vacation Rental System </h1>
 1.	Project Description and Services in Details:
 Our System shall Provide easy Trip-Browsing and  resemble a simple Traveler/Tourist Guide  , where the point of using our system is to allow users to browse trips, countries, destinations and Touristic attractions around the world, search for the suitable trip that matches your plans, and Because we believe sharing experiences is what makes us connected despite the distance, the system favors its registered users and allows them to share their experiences by adding a detailed description of their trips so that others can get inspired and follow their joyful guides!
+
 2.	Use Case Diagram
+
 ![Use Case](https://user-images.githubusercontent.com/92337927/220678380-1ec9b8c3-8883-4bc9-a4a7-213e86a217be.jpg)
 
 
